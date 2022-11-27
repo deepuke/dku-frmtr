@@ -1,0 +1,10 @@
+{
+  "en-US": {
+    "numberFormats": {
+      "int": {},
+      "float": {},
+      "price": {}
+    },
+    "dateTimeFormats": {}
+  }
+}
